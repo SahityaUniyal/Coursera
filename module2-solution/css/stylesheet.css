@@ -76,3 +76,11 @@ div.S h2{
 		clear: both;
 	}
 }
+/*-----------IF THE SIZE IS LESS THAN THAN 776px-----------*/
+@media(min-width: 0px) and (max-width: 775px)
+{
+	.C,.B,.S{
+		float: none;
+		width: 100%;
+	}
+}
