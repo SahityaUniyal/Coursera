@@ -83,4 +83,7 @@ div.S h2{
 		float: none;
 		width: 100%;
 	}
+	body{
+		margin: 30px;
+	}
 }
